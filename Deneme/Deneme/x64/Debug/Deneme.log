@@ -1,0 +1,71 @@
+﻿  ASCII_KODU_BULMA.cpp
+  Kaynak.cpp
+c:\users\bulut\source\repos\deneme\deneme\asm.h(13): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+c:\users\bulut\source\repos\deneme\deneme\asm.h(31): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+c:\users\bulut\source\repos\deneme\deneme\asm.h(41): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+c:\users\bulut\source\repos\deneme\deneme\asm.h(60): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+c:\users\bulut\source\repos\deneme\deneme\asm.h(78): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+c:\users\bulut\source\repos\deneme\deneme\asm.h(88): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+c:\users\bulut\source\repos\deneme\deneme\asm.h(107): error C4235: standart olmayan uzantı kullanıldı: '__asm' anahtar sözcüğü bu mimaride desteklenmiyor
+c:\users\bulut\source\repos\deneme\deneme\asm.h(15): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(15): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(15): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(16): error C2065: 'ADD': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(16): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(16): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(17): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(17): error C2146: sözdizimi hatası: ';' eksik ('a' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(17): error C2065: 'eax': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(33): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(33): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(33): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(34): error C2065: 'ADD': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(34): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(34): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(35): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(35): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(35): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(43): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(43): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(43): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(44): error C2065: 'ADD': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(44): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(44): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(45): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(45): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(45): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(62): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(62): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(62): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(63): error C2065: 'MUL': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(63): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(64): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(64): error C2146: sözdizimi hatası: ';' eksik ('a' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(64): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(80): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(80): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(80): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(81): error C2065: 'MUL': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(81): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(82): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(82): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(82): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(90): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(90): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(90): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(91): error C2065: 'MUL': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(91): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(92): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(92): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(92): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(109): error C2065: 'CWD': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(110): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(110): error C2146: sözdizimi hatası: ';' eksik ('EAX' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(110): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(111): error C2065: 'CWD': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(112): error C2065: 'DIV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(112): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(113): error C2065: 'MOV': bildirimi yapılmamış tanımlayıcı
+c:\users\bulut\source\repos\deneme\deneme\asm.h(113): error C2146: sözdizimi hatası: ';' eksik ('b' tanımlayıcısından önce)
+c:\users\bulut\source\repos\deneme\deneme\asm.h(113): error C2065: 'EAX': bildirimi yapılmamış tanımlayıcı
+  Kod Üretiliyor...
